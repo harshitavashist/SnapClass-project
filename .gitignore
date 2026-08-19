@@ -1,3 +1,10 @@
 *
 !requirements.txt
 !.gitignore
+.env
+.vscode
+*.pyc
+__pychache__/
+venv/
+.streamlit/
+dist/
